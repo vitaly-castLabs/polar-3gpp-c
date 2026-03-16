@@ -1,0 +1,21 @@
+*.DS_Store
+**/build
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Build outputs
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+
+# Test/benchmark outputs
+Testing/
+benchmark_*
